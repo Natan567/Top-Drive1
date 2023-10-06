@@ -1,0 +1,14 @@
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\bin\Debug\net6.0\TestLojaPneus.exe
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\bin\Debug\net6.0\TestLojaPneus.deps.json
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\bin\Debug\net6.0\TestLojaPneus.runtimeconfig.json
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\bin\Debug\net6.0\TestLojaPneus.dll
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\bin\Debug\net6.0\TestLojaPneus.pdb
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.AssemblyInfoInputs.cache
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.AssemblyInfo.cs
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.csproj.CoreCompileInputs.cache
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.dll
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\refint\TestLojaPneus.dll
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.pdb
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\TestLojaPneus.genruntimeconfig.cache
+C:\Users\Natan\source\repos\TestLojaPneus\TestLojaPneus\obj\Debug\net6.0\ref\TestLojaPneus.dll
